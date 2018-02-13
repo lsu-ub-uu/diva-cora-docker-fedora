@@ -1,4 +1,19 @@
 FROM cora-docker-fedora:3.8.1
 
+USER root
+WORKDIR $USER_HOME
+
+RUN mkdir import
+COPY people/* import/
+
+COPY *.sh $USER_HOME/
+RUN chmod +x *.sh && chown -R $USER_NAME: *
+
+USER $USER_NAME
+
+CMD ["/home/fedora/checkAndStart.sh"]
+
 # build
 # mvn clean package
+
+# start and stop see scripts directory

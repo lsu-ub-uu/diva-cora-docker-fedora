@@ -2,4 +2,4 @@
 docker stop diva-cora-fedora && docker rm diva-cora-fedora
 
 # stop database
-docker stop diva-cora-postgresql && docker rm diva-cora-postgresql
+docker stop diva-cora-postgresql-fedora && docker rm diva-cora-postgresql-fedora

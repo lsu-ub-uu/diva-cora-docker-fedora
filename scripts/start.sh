@@ -3,14 +3,14 @@
 
 
 # start database
-docker run --name diva-cora-postgresql -d --restart always \
+docker run --name diva-cora-postgresql-fedora -d --restart always \
   --network=diva-cora \
   --net-alias=postgres-fcrepo \
-  -p 54320:5432 \
+  -p 54322:5432 \
   -e POSTGRES_DB=fedora38 \
   -e POSTGRES_USER=fedoraAdmin \
   -e POSTGRES_PASSWORD=fedora \
-  -v diva_cora_postgres_data:/var/lib/postgresql \
+  -v diva_cora_postgres_fedora_data:/var/lib/postgresql \
   -v /etc/localtime:/etc/localtime:ro \
   -v /etc/timezone:/etc/timezone:ro \
   -v /dev/urandom:/dev/random \
@@ -19,9 +19,9 @@ docker run --name diva-cora-postgresql -d --restart always \
 # start Fedora
 docker run --name diva-cora-fedora -d --restart always \
   --network=diva-cora \
-  -p 8088:8088 \
-  -p 8443:8443 \
-  -p 61616:61616 \
+  -p 8089:8088 \
+  -p 8444:8443 \
+  -p 61617:61616 \
   -v diva_cora_fedora_tomcat_logs:/home/fedora/fedora38/tomcat/logs \
   -v diva_cora_fedora_server_logs:/home/fedora/fedora38/server/logs \
   -v diva_cora_fedora_data:/home/fedora/fedora38/data \
