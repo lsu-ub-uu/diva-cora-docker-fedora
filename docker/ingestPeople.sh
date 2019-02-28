@@ -1,7 +1,0 @@
-#!/bin/bash
-
-echo "Ingesting authority person records"
-for FILE in `find import -type f`
-do
-  ./fedora32/client/bin/fedora-ingest.sh f $FILE info:fedora/fedora-system:ATOMZip-1.1 localhost:8088 fedoraAdmin changeit http
-done
