@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COUNTER=`find fedora38/data -name "info*authority-person*" | wc -l`
+COUNTER=`find fedora32/data -name "info*authority-person*" | wc -l`
 
 if [ $COUNTER -eq 0 ]
 then

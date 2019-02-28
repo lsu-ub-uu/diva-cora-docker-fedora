@@ -27,9 +27,9 @@
 		<version>0.8.6</version>
 	</parent>
 
-	<artifactId>diva-cora-docker-fedora-3.8.1</artifactId>
+	<artifactId>diva-cora-docker-fedora-3.2.1</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>diva Cora Fedora Repository Docker</name>
 
 	<properties>
@@ -69,7 +69,7 @@
 				<artifactId>dockerfile-maven-plugin</artifactId>
 				<configuration>
 					<contextDirectory>${outputDirectory}</contextDirectory>
-					<repository>diva-cora-docker-fedora-3.8.1</repository>
+					<repository>diva-cora-docker-fedora-3.2.1</repository>
 					<tag>${project.version}</tag>
 					<pullNewerImage>false</pullNewerImage>
 				</configuration>
