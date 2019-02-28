@@ -1,0 +1,27 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:60566</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2019-02-26T12:54:18.419Z</timestamp>
+        <name>Test User</name>
+        <userId>141414</userId>
+        <ip>127.0.0.1</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Testsson</lastname>
+    <firstname>Test</firstname>
+    <addition></addition>
+    <number></number>
+  </defaultName>
+  <alternativeNames/>
+  <identifiers/>
+  <affiliations/>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map"/>
+  <publicRecord>true</publicRecord>
+</authorityPerson>
