@@ -5,6 +5,8 @@ This text is mainly here to remind us of how the docker was created so we can up
 ## Background
 In our setup a docker with postgresql and a docker with Fedora Commons work together to provide the Fedora Commons functionality. There are two base dockers that are then built upon for the DiVA dockers. The base dockers can be found in the projects, cora-docker-fedora32 and cora-docker-postgresql respectively.
 
+The preferred way to add data to the Fedora Commons system would have been to ingest exported records, but there seems to be a bug in 3.2(up to 3.4) that prevents the ingestion from working as expected when using checksums for the data streams.  This has forced us to use the more cumbersome way of adding data to Fedora Commons outlined below.
+
 ## Creating needed data
 This has all been done with the help of the Eclipse based development environment for Cora.
 
@@ -73,6 +75,7 @@ import from file, file containing person (METADATA.0.xml)
 host directory: /home/olov/workspace/diva-cora-docker-fedora/docker/expData
 container path:  /home/fedora/fedora32/data/objects
 tar -zcvf data.tar.gz /home/fedora/fedora32/data/objects/
+(this path might need to be adjusted to work as expected)
  
 ### export database data:
 docker exec -it diva-postgres-fcrepo bash
