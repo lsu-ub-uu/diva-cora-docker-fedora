@@ -24,12 +24,12 @@
 	<parent>
 		<groupId>se.uu.ub.cora</groupId>
 		<artifactId>cora-parent</artifactId>
-		<version>1.0.0</version>
+		<version>1.0.2</version>
 	</parent>
 
 	<artifactId>diva-cora-docker-fedora-3.2.1</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<name>diva Cora Fedora Repository Docker</name>
 
 	<properties>

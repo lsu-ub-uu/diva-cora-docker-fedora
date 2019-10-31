@@ -1,4 +1,4 @@
-FROM cora-docker-fedora-3.2.1:1.0.0
+FROM cora-docker-fedora-3.2.1:1.0.1
 
 ENV USER_NAME=fedora \
     USER_HOME=/home/fedora \
@@ -21,7 +21,7 @@ COPY fedora.fcfg fedora32/server/config/fedora.fcfg
 #
 #COPY *.sh $USER_HOME/
 #RUN chmod +x *.sh && chown -R $USER_NAME: *
-RUN chown -R $USER_NAME: *
+RUN chown -R $USER_NAME: .
 #
 USER $USER_NAME
 #
