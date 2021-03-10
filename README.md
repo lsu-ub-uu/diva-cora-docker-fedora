@@ -1,7 +1,7 @@
 # diva-cora-docker-fedora
-Docker container with Fedora Repository Software 3.8.1 and DiVA data
+Docker container with Fedora Repository Software 3.2.1 and DiVA data
 
-Documentation of Fedora's REST API: https://wiki.duraspace.org/display/FEDORA38/REST+API
+Documentation for Fedora 3.2.1: https://duraspace.org/archive/fedora/files/documentation/3.2.1/index.html
 
 Searching in Fedora
 ===================
@@ -24,7 +24,7 @@ Searching in Fedora
 ```
 
 
-Reading Place Metadata
+Reading Person Metadata
 ======================
 
 **URL:**

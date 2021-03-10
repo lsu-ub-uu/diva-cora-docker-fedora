@@ -1,6 +1,6 @@
 # How the docker for Fedora Commons 3.2.1 was created
 
-This text is mainly here to remind us of how the docker was created so we can update it when neede.
+This text is mainly here to remind us of how the docker was created so we can update it when needed.
 
 ## Background
 In our setup a docker with postgresql and a docker with Fedora Commons work together to provide the Fedora Commons functionality. There are two base dockers that are then built upon for the DiVA dockers. The base dockers can be found in the projects, cora-docker-fedora32 and cora-docker-postgresql respectively.
@@ -89,3 +89,6 @@ container path:  /temp/
 ## Data used in dockers for DiVA
 The exported files where then used to create the dockers for DiVA.
 diva-cora-docker-fedora and diva-cora-docker-fcrepo-postgresql
+
+
+
