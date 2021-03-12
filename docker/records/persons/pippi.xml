@@ -47,13 +47,6 @@
   <identifiers>
     <identifier>
       <type>LOCAL</type>
-      <domain>kalleanka</domain>
-      <value>25272</value>
-      <from></from>
-      <until></until>
-    </identifier>
-    <identifier>
-      <type>LOCAL</type>
       <domain>kth</domain>
       <value>3292</value>
       <from></from>
