@@ -1,0 +1,66 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:117</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-24T11:12:31.388Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Hammarskjöld</lastname>
+    <firstname>Dag</firstname>
+    <addition>Generalsekreterare</addition>
+    <number></number>
+  </defaultName>
+  <birthYear>1905</birthYear>
+  <deathYear>1961</deathYear>
+  <email>dag@hammarskold.se</email>
+  <alternativeNames>
+    <nameForm>
+      <lastname>Hammarskjöld</lastname>
+      <firstname>Dag Hjalmar Agne Carl</firstname>
+      <addition>Chef</addition>
+      <number></number>
+    </nameForm>
+  </alternativeNames>
+  <identifiers/>
+  <affiliations>
+    <affiliation>
+      <organisationId>400</organisationId>
+      <domain>test</domain>
+      <name>Astronomiska institutionen</name>
+      <alternativeName>Department of Astronomy</alternativeName>
+      <from>1930</from>
+      <until>1935</until>
+      <parents>
+        <affiliation>
+          <organisationId>1</organisationId>
+          <domain>test</domain>
+          <name>Uppsala universitet</name>
+          <alternativeName>Uppsala University</alternativeName>
+          <active>true</active>
+          <organisationNumber>202100-2932</organisationNumber>
+        </affiliation>
+      </parents>
+      <active>true</active>
+    </affiliation>
+  </affiliations>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map">
+    <entry>
+      <string>eng</string>
+      <string>&lt;p&gt;Dag Hjalmar Agne Carl Hammarskjöld (/ˈhæmərʃʊld/ HAM-ər-shuuld,[1] Swedish: [ˈdɑːɡ ˈhâmːarˌɧœld] ( listen); 29 July 1905 – 18 September 1961) was a Swedish economist and diplomat who served as the second Secretary-General of the United Nations. As of 2021, Hammarskjöld remains the youngest person to have held the Secretary-General post, having been only 47 years old when he was appointed in 1953. His second term was cut short when he died in the crash of his DC-6 airplane in Northern Rhodesia while en route to cease-fire negotiations during the Congo Crisis. He is the only person in history to be awarded a Nobel Peace Prize posthumously.[2]&lt;/p&gt;</string>
+    </entry>
+    <entry>
+      <string>swe</string>
+      <string>&lt;p&gt;Dag Hjalmar Agne Carl Hammarskjöld, född 29 juli 1905 i Jönköping, död 18 september 1961 nära Ndola i Nordrhodesia (nuvarande Zambia), var en svensk nationalekonom, jurist, ämbetsman, diplomat, adelsman och författare.&lt;/p&gt;&lt;p&gt;Hammarskjöld är främst känd för att han från 1953 fram till sin död verkade som FN:s generalsekreterare och som sådan avled på sin post när det flygplan han färdades i störtade i djungeln i Nordrhodesia i september 1961. Även om teorier att planet skulle ha skjutits ned genast uppstod, fastslog tidiga utredningar att kraschen varit en olycka. Senare försök att klargöra svenskens öde har dock fått fram uppgifter som pekar mot att olyckan egentligen var ett arrangerat mord.[4][5]&lt;/p&gt;</string>
+    </entry>
+  </biographies>
+  <publicRecord>true</publicRecord>
+</authorityPerson>

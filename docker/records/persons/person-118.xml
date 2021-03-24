@@ -1,0 +1,117 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:118</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-04T14:46:00.463Z</timestamp>
+        <name>Some user</name>
+        <userId>test123</userId>
+        <ip>192.168.1.109</ip>
+      </event>
+      <event>
+        <type>UPDATE</type>
+        <timestamp>2021-03-04T14:47:44.670Z</timestamp>
+        <name>Some user</name>
+        <userId>test123</userId>
+        <ip>192.168.1.109</ip>
+      </event>
+      <event>
+        <type>UPDATE</type>
+        <timestamp>2021-03-04T14:49:23.164Z</timestamp>
+        <name>Some user</name>
+        <userId>test123</userId>
+        <ip>192.168.1.109</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Långstrump</lastname>
+    <firstname>Pippi</firstname>
+    <addition>Doktor</addition>
+    <number></number>
+  </defaultName>
+  <birthYear>1918</birthYear>
+  <deathYear>2021</deathYear>
+  <email>pippi.langstrump@villekulla.se</email>
+  <alternativeNames>
+    <nameForm>
+      <lastname>Efraimsdotter</lastname>
+      <firstname>Rullgardina</firstname>
+      <addition>Super Doktor</addition>
+      <number></number>
+    </nameForm>
+  </alternativeNames>
+  <identifiers>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>uu</domain>
+      <value>pipla443</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>test</domain>
+      <value>128912</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>ORCID</type>
+      <domain></domain>
+      <value>238942+</value>
+      <from></from>
+      <until></until>
+    </identifier>
+  </identifiers>
+  <affiliations>
+    <affiliation>
+      <organisationId>50</organisationId>
+      <domain>test</domain>
+      <name>Uppsala institution KINGis</name>
+      <alternativeName>U-a org</alternativeName>
+      <from>1919</from>
+      <until>1920</until>
+      <parents>
+        <affiliation>
+          <organisationId>1</organisationId>
+          <domain>test</domain>
+          <name>Uppsala universitet TOp v3</name>
+          <alternativeName>Uppsala University Top v3</alternativeName>
+          <active>true</active>
+          <organisationNumber></organisationNumber>
+        </affiliation>
+      </parents>
+      <active>true</active>
+      <organisationNumber></organisationNumber>
+    </affiliation>
+    <affiliation>
+      <name>Harvard</name>
+      <alternativeName></alternativeName>
+      <from>1920</from>
+      <until>1922</until>
+      <active>false</active>
+      <organisationNumber></organisationNumber>
+    </affiliation>
+  </affiliations>
+  <urls>
+    <url>
+      <label>Facebook</label>
+      <url>http://facebook.se/pippi</url>
+    </url>
+  </urls>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map">
+    <entry>
+      <string>eng</string>
+      <string>&lt;p&gt;Pippi Longstocking (Swedish: Pippi Långstrump) is the fictional main character in an eponymous series of children&apos;s books by Swedish author Astrid Lindgren. Pippi was named by Lindgren&apos;s daughter Karin, who asked her mother for a get-well story when she was off school.&lt;/p&gt;&lt;p&gt;Pippi is red-haired, freckled, unconventional and superhumanly strong – able to lift her horse one-handed. She is playful and unpredictable. She often makes fun of unreasonable adults, especially if they are pompous and condescending. Her anger comes out in extreme cases, such as when a man mistreats his horse. Pippi, like Peter Pan, does not want to grow up. She is the daughter of a buccaneer captain and has adventure stories to tell about that, too. Her four best friends are her horse and monkey, and the neighbours&apos; children, Tommy and Annika.&lt;/p&gt;&lt;p&gt;After being rejected by Bonnier Publishers in 1944, Lindgren&apos;s first manuscript was accepted by Rabén and Sjögren. The three Pippi chapter books (Pippi Longstocking, Pippi Goes on Board, and Pippi in the South Seas) were published from 1945 to 1948, followed by three short stories and a number of picture book adaptations. They have been translated into 76 languages as of 2018[1] and made into several films and television series.&lt;/p&gt;</string>
+    </entry>
+    <entry>
+      <string>swe</string>
+      <string>&lt;p&gt;Pippi Långstrump, Pippilotta Viktualia Rullgardina Krusmynta Efraimsdotter Långstrump,[1] är en av Astrid Lindgrens mest kända litterära figurer och även namnet på den första boken om Pippi och hennes vänner, Tommy och Annika. Lindgren skapade figuren 1941 och första boken kom ut 1945. Pippi-böckerna finns översatta till 77 olika språk (2020).[2]&lt;/p&gt;&lt;p&gt;Pippi är världens starkaste, har fräknar och röda flätor som står rakt ut, säger emot vuxna och är allmänt ouppfostrad. I början när böckerna kom ut kunde hon upplevas som kontroversiell. Hon bor utan föräldrar i ett hus kallat Villa Villekulla tillsammans med sin prickiga häst Lilla gubben och sin apa Herr Nilsson. Hon äter &quot;krumelurpiller&quot; (som gör att man aldrig blir stor), hennes mamma är i himlen, hennes pappa Efraim Långstrump är kung på söderhavsön Kurrekurreduttön och hon har en kappsäck full med guldpengar. I hennes trädgård finns ett ihåligt träd där det enligt Pippi växer sockerdricka. I böckerna om Pippi myntas begrepp såsom pluttifikationstabellen, spunk och sak-letare.&lt;/p&gt;</string>
+    </entry>
+  </biographies>
+  <publicRecord>true</publicRecord>
+</authorityPerson>

@@ -1,0 +1,134 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:114</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-24T09:11:51.804Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>1231092950249501984+02934+0928340925+09572+3094+0923842570234§</lastname>
+    <firstname>0213+8490712+38578475903+02934818273598345+98§</firstname>
+    <addition>2399059090&quot;(#/)(¤//%)&quot;#=!)&quot;(#/&amp;%/¤)(#¤=)&quot;#¤()%/¤(=)</addition>
+    <number></number>
+  </defaultName>
+  <birthYear>0001</birthYear>
+  <deathYear>0000</deathYear>
+  <email>!&quot;#¤%/((&amp;)=(=)(%/&amp;=543534565345</email>
+  <alternativeNames>
+    <nameForm>
+      <lastname>23984845ææø§½¶(¤&quot;#)¤?=)=¤j29348908</lastname>
+      <firstname>ũũü^!&quot;#¤345adsfj&quot;#0924909&quot;#¤=)(%8¤&quot;=)%=&quot;)¤#(/(&quot;%?)=#&quot;</firstname>
+      <addition>aöslkj93492å43995u024</addition>
+      <number></number>
+    </nameForm>
+  </alternativeNames>
+  <identifiers>
+    <identifier>
+      <type>LIBRIS</type>
+      <domain></domain>
+      <value>asdfkäaslökäöaoweäopfakgndsfgnsldkfngölkasjdöflkjsfökasdfasdf</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>test</domain>
+      <value>asdfas123</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>uu</domain>
+      <value>&quot;#(¤)#(/)(#/¤)(#/)¤(#)¤</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>¤%%#¤#¤#&quot;)&quot;(#p)(&quot;p)HG4WOITP98¤)(¤#)&quot;(%/&quot;#)=&quot;)(#hfp)f&quot;(h)823/&quot;)#(%IHPOIAWEOFJKAWELF893PAP8oiapoiw4owejwag</domain>
+      <value>&quot;#(¤)#(/)(#/¤)(#/)¤(#)¤</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>ORCID</type>
+      <domain></domain>
+      <value>asdfgölhawöoierupowierölkasndöflkjawoöeiroj</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>VIAF</type>
+      <domain></domain>
+      <value>alksöjdflkjawöoeijfölaksdfölaksnvölskdvn.z,xföoiawje</value>
+      <from></from>
+      <until></until>
+    </identifier>
+  </identifiers>
+  <affiliations>
+    <affiliation>
+      <organisationId>2000</organisationId>
+      <domain>test</domain>
+      <name>Glafo Glasforskningsinstitutet</name>
+      <alternativeName>Glafo Glasforskningsinstitutet</alternativeName>
+      <from>9999</from>
+      <until>9999</until>
+      <parents>
+        <affiliation>
+          <organisationId>400</organisationId>
+          <domain>test</domain>
+          <name>Astronomiska institutionen</name>
+          <alternativeName>Department of Astronomy</alternativeName>
+          <parents>
+            <affiliation>
+              <organisationId>1</organisationId>
+              <domain>test</domain>
+              <name>Uppsala universitet</name>
+              <alternativeName>Uppsala University</alternativeName>
+              <active>true</active>
+              <organisationNumber>202100-2932</organisationNumber>
+            </affiliation>
+          </parents>
+          <active>true</active>
+          <organisationNumber></organisationNumber>
+        </affiliation>
+      </parents>
+      <active>true</active>
+      <organisationNumber></organisationNumber>
+    </affiliation>
+    <affiliation>
+      <name>234&quot;#)(¤&quot;(%/=)&quot;¤(%/&quot;#(¤/&quot;=)#(¤/=)&quot;(#%/=)&quot;(#/%)(¤%?=)#&quot;(¤?=)%//(#&quot;)¤#=)¤(#&quot;?=)/%(¤9+)&quot;?#=)¤(?=)/%98427598234+20938?=%)/2873()&quot;/#¤)(/?(&quot;/#)(¤/&quot;)(#%/#¤#</name>
+      <alternativeName></alternativeName>
+      <from>0000</from>
+      <until>0000</until>
+      <active>false</active>
+      <organisationNumber></organisationNumber>
+    </affiliation>
+  </affiliations>
+  <urls>
+    <url>
+      <label>??????????????????????????¶</label>
+      <url>http://¤#¤)=#)¤(=9029348082OÖlkjasdfupw9tp23poiargp8235723904093#(((%(%(</url>
+    </url>
+  </urls>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map">
+    <entry>
+      <string>eng</string>
+      <string>&lt;p&gt;We want a shrubbery!!&lt;br /&gt;You can&apos;t expect to wield supreme power just &apos;cause some watery tart threw a sword at you! Well, I didn&apos;t vote for you. Well, I got better. We shall say &apos;Ni&apos; again to you, if you do not appease us. She looks like one.&lt;/p&gt;&lt;p&gt;Look, my liege! Well, she turned me into a newt. I don&apos;t want to talk to you no more, you empty-headed animal food trough water!  I fart in your general direction!  Your mother was a hamster and your father smelt of elderberries! Now leave before I am forced to taunt you a second time!&lt;/p&gt;&lt;p&gt;Oh, ow!&lt;br /&gt;Who&apos;s that then? I have to push the pram a lot. Who&apos;s that then? You don&apos;t frighten us, English pig-dogs! Go and boil your bottoms, sons of a silly person! I blow my nose at you, so-called Ah-thoor Keeng, you and all your silly English K-n-n-n-n-n-n-n-niggits!&lt;/p&gt;&lt;p&gt;Oh! Come and see the violence inherent in the system! Help, help, I&apos;m being repressed!&lt;br /&gt;Well, she turned me into a newt.&lt;br /&gt;The swallow may fly south with the sun, and the house martin or the plover may seek warmer climes in winter, yet these are not strangers to our land.&lt;br /&gt;Well, what do you want?&lt;br /&gt;What a strange person. Well, what do you want? What do you mean? Why? Bring her forward!&lt;/p&gt;&lt;p&gt;Shut up! Will you shut up?!&lt;br /&gt;Ni! Ni! Ni! Ni!&lt;br /&gt;Well, I didn&apos;t vote for you.&lt;br /&gt;Well, Mercia&apos;s a temperate zone! And the hat. She&apos;s a witch! Oh! Come and see the violence inherent in the system! Help, help, I&apos;m being repressed! Why do you think that she is a witch? The Knights Who Say Ni demand a sacrifice!&lt;/p&gt;&lt;p&gt;We want a shrubbery!! Burn her! Bloody Peasant! Found them? In Mercia?! The coconut&apos;s tropical! Burn her anyway!&lt;/p&gt;&lt;p&gt;I&apos;m not a witch. Oh, ow! Shut up! Will you shut up?! The swallow may fly south with the sun, and the house martin or the plover may seek warmer climes in winter, yet these are not strangers to our land.&lt;/p&gt;&lt;p&gt;Where&apos;d you get the coconuts? Oh! Come and see the violence inherent in the system! Help, help, I&apos;m being repressed! Ni! Ni! Ni! Ni! And this isn&apos;t my nose. This is a false one. Knights of Ni, we are but simple travelers who seek the enchanter who lives beyond these woods.&lt;/p&gt;&lt;p&gt;Burn her! The Knights Who Say Ni demand a sacrifice! Well, she turned me into a newt. The Knights Who Say Ni demand a sacrifice! Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.&lt;/p&gt;&lt;p&gt;And the hat. She&apos;s a witch! Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.&lt;/p&gt;&lt;p&gt;He hasn&apos;t got shit all over him. Well, we did do the nose. We found them. But you are dressed as one…&lt;/p&gt;&lt;p&gt;We found them. I don&apos;t want to talk to you no more, you empty-headed animal food trough water! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries! Now leave before I am forced to taunt you a second time!&lt;/p&gt;&lt;p&gt;Burn her! Why do you think that she is a witch? What a strange person. Look, my liege! Bloody Peasant! Found them? In Mercia?! The coconut&apos;s tropical!&lt;/p&gt;&lt;p&gt;What do you mean? And the hat. She&apos;s a witch! Well, what do you want? The Lady of the Lake, her arm clad in the purest shimmering samite, held aloft Excalibur from the bosom of the water, signifying by divine providence that I, Arthur, was to carry Excalibur. That is why I am your king.&lt;/p&gt;&lt;p&gt;Well, she turned me into a newt. But you are dressed as one… Well, what do you want? A newt?&lt;/p&gt;</string>
+    </entry>
+    <entry>
+      <string>swe</string>
+      <string>&lt;p&gt;A tremor in the Force. The last time I felt it was in the presence of my old master.&lt;br /&gt;Ye-ha! Obi-Wan is here. The Force is with him. You mean it controls your actions? I call it luck. Remember, a Jedi can feel the Force flowing through him.&lt;/p&gt;&lt;p&gt;I find your lack of faith disturbing. Hokey religions and ancient weapons are no match for a good blaster at your side, kid. Hey, Luke!  May the Force be with you.  But with the blast shield down, I can&apos;t even see! How am I supposed to fight?&lt;/p&gt;&lt;p&gt;Partially, but it also obeys your commands.&lt;br /&gt;Dantooine. They&apos;re on Dantooine. Ye-ha! I call it luck. A tremor in the Force. The last time I felt it was in the presence of my old master.&lt;/p&gt;&lt;p&gt;I care. So, what do you think of her, Han?&lt;br /&gt;I find your lack of faith disturbing.&lt;br /&gt;Oh God, my uncle. How am I ever gonna explain this?&lt;br /&gt;Ye-ha!&lt;br /&gt;Dantooine. They&apos;re on Dantooine. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. The more you tighten your grip, Tarkin, the more star systems will slip through your fingers.&lt;/p&gt;&lt;p&gt;Dantooine. They&apos;re on Dantooine.&lt;br /&gt;Still, she&apos;s got a lot of spirit. I don&apos;t know, what do you think?&lt;br /&gt;He is here.&lt;br /&gt;I find your lack of faith disturbing. Escape is not his plan. I must face him, alone. Alderaan? I&apos;m not going to Alderaan. I&apos;ve got to go home. It&apos;s late, I&apos;m in for it as it is. The Force is strong with this one. I have you now.&lt;/p&gt;&lt;p&gt;You&apos;re all clear, kid. Let&apos;s blow this thing and go home! All right. Well, take care of yourself, Han. I guess that&apos;s what you&apos;re best at, ain&apos;t it? Your eyes can deceive you. Don&apos;t trust them. Look, I can take you as far as Anchorhead. You can get a transport there to Mos Eisley or wherever you&apos;re going.&lt;/p&gt;&lt;p&gt;As you wish. Your eyes can deceive you. Don&apos;t trust them. I call it luck. Red Five standing by. Hey, Luke! May the Force be with you.&lt;/p&gt;&lt;p&gt;What?! In my experience, there is no such thing as luck. What!? But with the blast shield down, I can&apos;t even see! How am I supposed to fight? In my experience, there is no such thing as luck.&lt;/p&gt;&lt;p&gt;I&apos;m trying not to, kid. The Force is strong with this one. I have you now. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There&apos;ll be no one to stop us this time!&lt;/p&gt;&lt;p&gt;Look, I ain&apos;t in this for your revolution, and I&apos;m not in it for you, Princess. I expect to be well paid. I&apos;m in it for the money. What?! Hey, Luke! May the Force be with you. Escape is not his plan. I must face him, alone.&lt;/p&gt;&lt;p&gt;Hey, Luke! May the Force be with you. Red Five standing by. But with the blast shield down, I can&apos;t even see! How am I supposed to fight? In my experience, there is no such thing as luck.&lt;/p&gt;&lt;p&gt;I need your help, Luke. She needs your help. I&apos;m getting too old for this sort of thing. Hokey religions and ancient weapons are no match for a good blaster at your side, kid. Partially, but it also obeys your commands.&lt;/p&gt;&lt;p&gt;You mean it controls your actions? You&apos;re all clear, kid. Let&apos;s blow this thing and go home! Alderaan? I&apos;m not going to Alderaan. I&apos;ve got to go home. It&apos;s late, I&apos;m in for it as it is. Kid, I&apos;ve flown from one side of this galaxy to the other. I&apos;ve seen a lot of strange stuff, but I&apos;ve never seen anything to make me believe there&apos;s one all-powerful Force controlling everything. There&apos;s no mystical energy field that controls my destiny. It&apos;s all a lot of simple tricks and nonsense.&lt;/p&gt;&lt;p&gt;Alderaan? I&apos;m not going to Alderaan. I&apos;ve got to go home. It&apos;s late, I&apos;m in for it as it is. Remember, a Jedi can feel the Force flowing through him. I care. So, what do you think of her, Han? Leave that to me. Send a distress signal, and inform the Senate that all on board were killed.&lt;/p&gt;&lt;p&gt;The Force is strong with this one. I have you now. Still, she&apos;s got a lot of spirit. I don&apos;t know, what do you think? Your eyes can deceive you. Don&apos;t trust them. Hokey religions and ancient weapons are no match for a good blaster at your side, kid.&lt;/p&gt;</string>
+    </entry>
+  </biographies>
+  <publicRecord>true</publicRecord>
+</authorityPerson>

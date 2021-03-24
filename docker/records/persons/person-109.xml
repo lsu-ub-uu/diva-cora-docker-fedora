@@ -1,0 +1,35 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:109</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-23T10:23:46.533Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname></lastname>
+    <firstname></firstname>
+    <addition></addition>
+    <number></number>
+  </defaultName>
+  <alternativeNames/>
+  <identifiers>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>test</domain>
+      <value>rinst123</value>
+      <from></from>
+      <until></until>
+    </identifier>
+  </identifiers>
+  <affiliations/>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map"/>
+  <publicRecord>true</publicRecord>
+</authorityPerson>

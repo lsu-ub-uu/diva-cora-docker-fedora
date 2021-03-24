@@ -1,0 +1,74 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:110</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-23T10:55:34.682Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Linné</lastname>
+    <firstname>Carl von</firstname>
+    <addition>Rektor</addition>
+    <number></number>
+  </defaultName>
+  <birthYear>1744</birthYear>
+  <deathYear>1778</deathYear>
+  <email>car@linne.se</email>
+  <alternativeNames>
+    <nameForm>
+      <lastname>Linnæus</lastname>
+      <firstname>Carolus</firstname>
+      <addition>Professor</addition>
+      <number></number>
+    </nameForm>
+  </alternativeNames>
+  <identifiers>
+    <identifier>
+      <type>LIBRIS</type>
+      <domain></domain>
+      <value>81641</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>ORCID</type>
+      <domain></domain>
+      <value>0000-0002-3234-3243</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>VIAF</type>
+      <domain></domain>
+      <value>34594730</value>
+      <from></from>
+      <until></until>
+    </identifier>
+  </identifiers>
+  <affiliations/>
+  <urls>
+    <url>
+      <label>Wikipedia</label>
+      <url>https://sv.wikipedia.org/wiki/Carl_von_Linn%C3%A9</url>
+    </url>
+  </urls>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map">
+    <entry>
+      <string>eng</string>
+      <string>&lt;p&gt;Carl Linnaeus (/lɪˈniːəs, lɪˈneɪəs/;[1][2] 23 May[note 1] 1707 – 10 January 1778), also known after his ennoblement as Carl von Linné[3] (Swedish pronunciation: [ˈkɑːɭ fɔn lɪˈneː] ( listen)), was a Swedish botanist, zoologist, taxonomist, and physician who formalised binomial nomenclature, the modern system of naming organisms. He is known as the &quot;father of modern taxonomy&quot;.[4] Many of his writings were in Latin, and his name is rendered in Latin as Carolus Linnæus (after 1761 Carolus a Linné). &lt;/p&gt;</string>
+    </entry>
+    <entry>
+      <string>swe</string>
+      <string>&lt;p&gt;Carl von Linné (info) (före adlandet 1757 Carl Linnæus, Carolus Linnæus), född 13 maj[anm 1][2] 1707 i Råshult, Stenbrohults socken, Småland, död 10 januari 1778 i Uppsala, var en svensk botaniker, läkare, geolog och zoolog[3] som lade grunden till den moderna nomenklaturen inom biologin och den moderna systematiken, som grupperar växter och djur. Många av hans skrifter publicerades på latin, och därför återges hans latinska namn som Carolus Linnæus (Carolus a Linné efter 1761). &lt;/p&gt;</string>
+    </entry>
+  </biographies>
+  <publicRecord>true</publicRecord>
+</authorityPerson>

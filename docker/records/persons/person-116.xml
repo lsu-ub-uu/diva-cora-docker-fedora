@@ -1,0 +1,54 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:116</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-24T11:05:01.121Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Lovelace</lastname>
+    <firstname>Ada</firstname>
+    <addition>Grevinna</addition>
+    <number></number>
+  </defaultName>
+  <birthYear>1815</birthYear>
+  <deathYear>1852</deathYear>
+  <email>ada@lovelace.se</email>
+  <alternativeNames>
+    <nameForm>
+      <lastname>King</lastname>
+      <firstname>Augusta Ada</firstname>
+      <addition>Grevinna</addition>
+      <number></number>
+    </nameForm>
+  </alternativeNames>
+  <identifiers>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>test</domain>
+      <value>adalo333</value>
+      <from></from>
+      <until></until>
+    </identifier>
+  </identifiers>
+  <affiliations/>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map">
+    <entry>
+      <string>eng</string>
+      <string>&lt;p&gt;Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage&apos;s proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation, and to have published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as one of the first computer programmers.[2][3][4]&lt;/p&gt;</string>
+    </entry>
+    <entry>
+      <string>swe</string>
+      <string>&lt;p&gt;Ada Lovelace, egentligen Augusta Ada King, grevinna av Lovelace, född Byron den 10 december 1815 i London, död 27 november 1852 i Marylebone i London, var en brittisk matematiker och skribent. Hon är mest ihågkommen för sitt arbete med Charles Babbages mekaniska dator, den analytiska maskinen. Hennes anteckningar om maskinen innehåller den första algoritm som är avsedd att bearbetas med en maskin. Därför beskrivs hon ofta som historiens första datorprogrammerare.[1][2][3]&lt;/p&gt;</string>
+    </entry>
+  </biographies>
+  <publicRecord>true</publicRecord>
+</authorityPerson>

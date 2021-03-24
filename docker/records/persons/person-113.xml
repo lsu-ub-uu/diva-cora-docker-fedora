@@ -1,0 +1,83 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:113</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-24T08:11:00.733Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+      <event>
+        <type>UPDATE</type>
+        <timestamp>2021-03-24T08:14:04.179Z</timestamp>
+        <name>Benjamin Langlotz</name>
+        <userId>benla389</userId>
+        <ip>192.168.0.59</ip>
+      </event>
+    </events>
+    <recordDeleted>true</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Anka</lastname>
+    <firstname>Kalle</firstname>
+    <addition>Phd</addition>
+    <number></number>
+  </defaultName>
+  <birthYear>1934</birthYear>
+  <email>kalle@anka.se</email>
+  <alternativeNames>
+    <nameForm>
+      <lastname>Duck</lastname>
+      <firstname>Donald</firstname>
+      <addition>Phd</addition>
+      <number></number>
+    </nameForm>
+  </alternativeNames>
+  <identifiers/>
+  <affiliations>
+    <affiliation>
+      <organisationId>2000</organisationId>
+      <domain>test</domain>
+      <name>Glafo Glasforskningsinstitutet</name>
+      <alternativeName>Glafo Glasforskningsinstitutet</alternativeName>
+      <from>2000</from>
+      <until>2005</until>
+      <parents>
+        <affiliation>
+          <organisationId>400</organisationId>
+          <domain>test</domain>
+          <name>Astronomiska institutionen</name>
+          <alternativeName>Department of Astronomy</alternativeName>
+          <parents>
+            <affiliation>
+              <organisationId>1</organisationId>
+              <domain>test</domain>
+              <name>Uppsala universitet</name>
+              <alternativeName>Uppsala University</alternativeName>
+              <active>true</active>
+              <organisationNumber>202100-2932</organisationNumber>
+            </affiliation>
+          </parents>
+          <active>true</active>
+          <organisationNumber></organisationNumber>
+        </affiliation>
+      </parents>
+      <active>true</active>
+      <organisationNumber></organisationNumber>
+    </affiliation>
+  </affiliations>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map">
+    <entry>
+      <string>eng</string>
+      <string>&lt;p&gt;Donald Fauntleroy Duck[2] is a cartoon character created in 1934 at Walt Disney Animation Studios.[3] Donald is an anthropomorphic white duck with a yellow-orange bill, legs, and feet. He typically wears a sailor shirt and cap with a bow tie. Donald is known for his semi-intelligible speech and his mischievous, temperamental, and pompous personality. Along with his friend Mickey Mouse, Donald was included in TV Guide&apos;s list of the 50 greatest cartoon characters of all time in 2002,[4] and has earned a star on the Hollywood Walk of Fame. He has appeared in more films than any other Disney character,[5] and is the most published comic book character in the world outside of the superhero genre.[6]&lt;/p&gt;</string>
+    </entry>
+    <entry>
+      <string>swe</string>
+      <string>&lt;p&gt;Kalle Anka (info) (fullständigt namn i svensk översättning: Karl Magnus Anka[1]), engelska: Donald Fauntleroy Duck, är ursprungligen en filmfigur skapad av Walt Disneys animatörer. Hans första officiella framträdande var den 9 juni 1934 i kortfilmen Den kloka hönan[2] (The Wise Little Hen).[3] Namnet Donald Duck omnämndes dock i en sagobok redan 1932.[4] På kort tid kom Kalle att etablera sig i Disneys kortfilmer och på ett knappt decennium tog han över från Musse som Disneys störste filmhjälte.[5]&lt;/p&gt;</string>
+    </entry>
+  </biographies>
+  <publicRecord>true</publicRecord>
+</authorityPerson>

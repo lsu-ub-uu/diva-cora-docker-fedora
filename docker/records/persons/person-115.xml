@@ -1,0 +1,34 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:115</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-24T09:34:26.374Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+      <event>
+        <type>UPDATE</type>
+        <timestamp>2021-03-24T09:34:50.977Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Bader Ginsburg</lastname>
+    <firstname>Ruth</firstname>
+    <addition></addition>
+    <number></number>
+  </defaultName>
+  <alternativeNames/>
+  <identifiers/>
+  <affiliations/>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map"/>
+  <publicRecord>true</publicRecord>
+</authorityPerson>
