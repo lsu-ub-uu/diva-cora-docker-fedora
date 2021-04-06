@@ -10,6 +10,10 @@
         <userId>rinst123</userId>
         <ip>38.43.0.133</ip>
       </event>
+      <event>
+        <type>DELETE</type>
+        <timestamp>2021-03-29T11:58:52.335Z</timestamp>
+      </event>
     </events>
     <recordDeleted>true</recordDeleted>
   </recordInfo>
