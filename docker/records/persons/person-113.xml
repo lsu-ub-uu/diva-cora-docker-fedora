@@ -10,13 +10,6 @@
         <userId>rinst123</userId>
         <ip>38.43.0.133</ip>
       </event>
-      <event>
-        <type>UPDATE</type>
-        <timestamp>2021-03-24T08:14:04.179Z</timestamp>
-        <name>Benjamin Langlotz</name>
-        <userId>benla389</userId>
-        <ip>192.168.0.59</ip>
-      </event>
     </events>
     <recordDeleted>true</recordDeleted>
   </recordInfo>
