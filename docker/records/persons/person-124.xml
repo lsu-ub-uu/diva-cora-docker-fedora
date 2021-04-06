@@ -1,0 +1,33 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:124</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-04-06T07:58:17.618Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Ernman</lastname>
+    <firstname>Malena</firstname>
+    <addition></addition>
+    <number></number>
+  </defaultName>
+  <birthYear>1970</birthYear>
+  <email>malena@ernman.se</email>
+  <alternativeNames/>
+  <identifiers/>
+  <affiliations/>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map">
+    <entry>
+      <string>swe</string>
+      <string>&lt;p&gt;Sara Magdalena Ernman, känd som Malena Ernman, född 4 november 1970 i Uppsala,[1] är en svensk operasångerska (mezzosopran). Trots att hennes centrala roller återfinns i mezzofacket har hon ett unikt röstomfång upp till en koloratursoprans trestrukna f. Hon har haft återkommande uppdrag utomlands, bland annat på olika scener i Berlin, Wien (främst vid Volksoper) och Amsterdam.[2]&lt;/p&gt;&lt;p&gt;Ernman fick ett populärmusikaliskt genombrott med deltagandet och vinsten i Melodifestivalen 2009, den svenska uttagningen till Eurovision Song Contest 2009 med bidraget La Voix, skrivet av henne själv och Fredrik Kempe. År 2015 utsågs hon att läsa den traditionella dikten Nyårsklockan av Alfred Tennyson vid Skansens nyårsfirande, vilket också sänds i Sveriges Television.[3]&lt;/p&gt;</string>
+    </entry>
+  </biographies>
+</authorityPerson>
