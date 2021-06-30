@@ -52,13 +52,13 @@
       <from></from>
       <until></until>
     </identifier>
-    <identifier>
-      <type>LOCAL</type>
-      <domain>¤%%#¤#¤#&quot;)&quot;(#p)(&quot;p)HG4WOITP98¤)(¤#)&quot;(%/&quot;#)=&quot;)(#hfp)f&quot;(h)823/&quot;)#(%IHPOIAWEOFJKAWELF893PAP8oiapoiw4owejwag</domain>
-      <value>&quot;#(¤)#(/)(#/¤)(#/)¤(#)¤</value>
-      <from></from>
-      <until></until>
-    </identifier>
+<!--     <identifier> -->
+<!--       <type>LOCAL</type> -->
+<!--       <domain>¤%%#¤#¤#&quot;)&quot;(#p)(&quot;p)HG4WOITP98¤)(¤#)&quot;(%/&quot;#)=&quot;)(#hfp)f&quot;(h)823/&quot;)#(%IHPOIAWEOFJKAWELF893PAP8oiapoiw4owejwag</domain> -->
+<!--       <value>&quot;#(¤)#(/)(#/¤)(#/)¤(#)¤</value> -->
+<!--       <from></from> -->
+<!--       <until></until> -->
+<!--     </identifier> -->
     <identifier>
       <type>ORCID</type>
       <domain></domain>
