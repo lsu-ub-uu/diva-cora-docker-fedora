@@ -1,0 +1,87 @@
+<authorityPerson>
+  <type>PERSON</type>
+  <pid>authority-person:115</pid>
+  <recordInfo>
+    <events>
+      <event>
+        <type>CREATE</type>
+        <timestamp>2021-03-24T09:34:26.374Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+      <event>
+        <type>UPDATE</type>
+        <timestamp>2021-03-24T09:34:50.977Z</timestamp>
+        <name>Ringo Starr</name>
+        <userId>rinst123</userId>
+        <ip>38.43.0.133</ip>
+      </event>
+    </events>
+    <recordDeleted>false</recordDeleted>
+  </recordInfo>
+  <defaultName>
+    <lastname>Person</lastname>
+    <firstname>125</firstname>
+    <addition></addition>
+    <number></number>
+  </defaultName>
+  <alternativeNames/>
+  <identifiers>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>uu</domain>
+      <value>local0</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>uu</domain>
+      <value>local1</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>LOCAL</type>
+      <domain>uu</domain>
+      <value>local2</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>ORCID</type>
+      <domain></domain>
+      <value>0000-0000-0000-0000</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>ORCID</type>
+      <domain></domain>
+      <value>1111-1111-1111-1111</value>
+      <from></from>
+      <until></until>
+    </identifier>
+    <identifier>
+      <type>ORCID</type>
+      <domain></domain>
+      <value>2222-2222-2222-2222</value>
+      <from></from>
+      <until></until>
+    </identifier>
+  </identifiers>
+  <affiliations>
+    <affiliation>
+      <organisationId>1750</organisationId>
+      <domain>uu</domain>
+      <name>Uppsala universitet</name>
+      <alternativeName>Uppsala University</alternativeName>
+      <from>1730</from>
+      <until>1744</until>
+      <active>true</active>
+    </affiliation>
+  </affiliations>
+  <biographies class="com.google.gson.internal.LinkedTreeMap" resolves-to="linked-hash-map"/>
+  <publicRecord>true</publicRecord>
+</authorityPerson>
